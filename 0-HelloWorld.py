@@ -1,8 +1,8 @@
-
+# Read a full line of input from stdin and save it to our dynamically typed variable, input_string.
 input_string = input()
 
-# imprime una cadena string que diga "Hello, World.".
+# Print a string literal saying "Hello, World." to stdout.
 print('Hello, World.')
 
-# Escribe una linea de codigo para imprimir el contenido de input_string.
+# Write a line of code here that prints the contents of input_string to stdout.
 print(input_string)
