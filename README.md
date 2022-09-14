@@ -5,6 +5,7 @@ This Repo is for make the Hackerrank challenge. It's about programing with pytho
 
 | # Day  |                                                                       Topics                                                                        |
 | -----  | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   0    | [HelloWorld](https://github.com/PatoFredesTi/30-Days-To-Code-Python/blob/main/0-HelloWorld.py) |
 |   1    |  |
 <!-- 
 |   2    |  |
