@@ -15,11 +15,11 @@ Progress:   █░░░░░░░░░░░░░░░░░░░░░�
 | # Day  |                                                                       Topics                                                                        |
 | -----  | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
 |   0    | [HelloWorld](https://github.com/PatoFredesTi/30-Days-To-Code-Python/blob/main/0-HelloWorld.py) |
-|   1    |  |
+|   1    | [DataTypes](https://github.com/PatoFredesTi/30-Days-To-Code-Python/blob/main/1-DataTypes.py)   |
+|   2    | [Operators](https://github.com/PatoFredesTi/30-Days-To-Code-Python/blob/main/2-operators.py)   |
+|   3    | [IntroToConditionalStatements](https://github.com/PatoFredesTi/30-Days-To-Code-Python/blob/main/3-introToConditionalStatements.py)|
+|   4    | [ClassVsInstance](https://github.com/PatoFredesTi/30-Days-To-Code-Python/blob/main/4-classVsInstance.py)|
 <!-- 
-|   2    |  |
-|   3    |  |
-|   4    |  |
 |   5    |  |
 |   6    |  |
 |   7    |  |
